@@ -1,13 +1,8 @@
 """
-6.101 Lab 11:
 Symbolic Algebra
 """
 
 import doctest
-
-# NO ADDITIONAL IMPORTS ALLOWED!
-# You are welcome to modify the classes below, as well as to implement new
-# classes and helper functions as necessary.
 
 
 class Symbol:
